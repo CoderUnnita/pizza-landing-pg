@@ -24,7 +24,12 @@ p{
 }
 h3{
     font-size: small;
+    text-align: center;
 }
 hr{
     color: #0efaab;
+}
+.special{
+    padding: 150 px; 
+    margin-left: 150 px;
 }
