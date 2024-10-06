@@ -1,8 +1,27 @@
-div
-{
+div{
     background-color: aquamarine;
 }
-h1
-{
-    font-style: oblique ;
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h6{
+    text-align: center;
+    font-size: large;
+    font-style: initial;
+    margin: 12px 9px ;
+}
+h1{
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+}
+p{
+    font-size: medium;
+}
+h3{
+    font-size: small;
 }
