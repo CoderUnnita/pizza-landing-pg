@@ -34,5 +34,10 @@ hr{
     margin-left: 150 px;
 }
 img{
-    width: 450px;
+    width: 250px;
+    float: left;
+    display: align;
+    margin-left: 5px;
+    margin-right: 18px;
+    margin-bottom: 14px;
 }
