@@ -24,7 +24,7 @@ p{
 }
 h3{
     font-size: small;
-    text-align: center;
+    text-align: right;
 }
 hr{
     color: #0efaab;
@@ -32,4 +32,7 @@ hr{
 .special{
     padding: 150 px; 
     margin-left: 150 px;
+}
+img{
+    width: 450px;
 }
