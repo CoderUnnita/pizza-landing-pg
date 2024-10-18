@@ -1,21 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 .green{
     background-color: aquamarine;
+    border: 0px;
+    text-align: center;
+    margin: 12px 9px;
 }
+
 body{
     background-color: antiquewhite;
+    background-image: url(IMG-20240520-WA0048.jpg);
 }
+
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
+
 h6{
     text-align: center;
     font-size: large;
     font-style: initial;
     margin: 12px 9px ;
 }
+
 h1{
     text-align: center;
 }
+
 h1{
     font-size: xx-large;
 }
