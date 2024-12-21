@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .green{
     background-color: rgb(200, 253, 235);
     border: 0px;
@@ -10,16 +11,16 @@
     margin: 12px 9px;
 }
 
+
 body{
-    background-color: antiquewhite;
-    background-image: url(IMG-20240520-WA0048.jpg);
-    background-size: cover;
-    opacity: 0.2;
+    
 }
+
 
 h1{
     font-family: 'Times New Roman', Times, serif;
 }
+
 
 h6{
     text-align: center;
@@ -28,13 +29,18 @@ h6{
     margin: 12px 9px ;
 }
 
-h1{
-    text-align: center;
-}
 
 h1{
-    font-size: xx-large;
+    text-align: center;
+    
 }
+
+
+h1{
+    
+}
+
+
 p{
     font-size: medium;
 }
