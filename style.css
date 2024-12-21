@@ -2,18 +2,39 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
 
-/* adding font */
-
-.nav-logo{
-    object-fit: scale-down;
-}
-
-li{
-    display: inline;
     font-family: "Lexend", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
+}
+
+/* adding font */
+
+/* .nav-logo{
+    object-fit: scale-down;
+} */
+
+.nav-left{ 
+    height: 100px;
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nav-left ul{
+    padding-left: 200px;
+    display: flex;
+}
+
+.nav-left ul li{
+    list-style: none;
+    margin-left: 45px;
+    margin-top: 55px;
+}
+
+.nav-left a{
+    text-decoration: none;
+    color: #131313;
 }
