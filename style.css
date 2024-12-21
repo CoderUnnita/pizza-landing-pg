@@ -36,30 +36,24 @@ h1{
 }
 
 
-h1{
-    
-}
-
-
 p{
     font-size: medium;
 }
+
+
 h3{
     font-size: small;
     text-align: right;
 }
+
+
 hr{
     color: #0efaab;
 }
+
+
 .special{
     padding: 150 px; 
     margin-left: 150 px;
 }
-img{
-    width: 250px;
-    float: left;
-    display: align;
-    margin-left: 5px;
-    margin-right: 18px;
-    margin-bottom: 14px;
-}
+
