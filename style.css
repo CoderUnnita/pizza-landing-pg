@@ -89,5 +89,15 @@ h4{
     border-style: solid;
 }
 
-button{}
+button{
+    width: 240px;
+    height: 36px;
+    align-content: center;
+    
+    border-style: solid;
+    background-color: #ff4a36;
+    border-radius: 60px;
+    border-top: 0px;
+    border-bottom: 0px;
+}
 /* main content styling ends */
