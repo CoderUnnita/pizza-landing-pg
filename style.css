@@ -50,10 +50,11 @@ hr{
     float: right;
     margin-right: 120px;
     margin-top: 66px;
-    
-    border-radius: 233px;
 }
 
+#pizza-img img{
+    border-radius: 20px;
+}
 main{
     margin-left: 45px;
     padding-left: 80px;
