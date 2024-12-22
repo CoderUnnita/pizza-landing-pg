@@ -46,6 +46,7 @@
 /* main content styling starts */
 #pizza-img{
     float: right;
+    filter: drop-shadow(13px 10px 4px #d0cec8);
 }
 
 /* main content styling ends */
