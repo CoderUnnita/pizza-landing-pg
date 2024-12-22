@@ -12,14 +12,8 @@ body{
     font-style: normal;
 }
 
-/* adding font */
-
-/* .nav-logo{
-    object-fit: scale-down;
-} */
 
 /* navbar styling starts */
-
 .nav-left{ 
     height: 100px;
     width: 100%;
@@ -43,8 +37,8 @@ body{
     text-decoration: none;
     color: #131313;
 }
-
 /* navbar styling ends */
+
 
 /* main content styling starts */
 #pizza-img{
@@ -105,3 +99,4 @@ button{
     border-radius: 60px;
 }
 /* main content styling ends */
+
