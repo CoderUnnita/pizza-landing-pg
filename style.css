@@ -15,6 +15,8 @@
     object-fit: scale-down;
 } */
 
+/* navbar styling starts */
+
 .nav-left{ 
     height: 100px;
     width: 100%;
@@ -38,3 +40,12 @@
     text-decoration: none;
     color: #131313;
 }
+
+/* navbar styling ends */
+
+/* main content styling starts */
+#pizza-img{
+    float: right;
+}
+
+/* main content styling ends */
