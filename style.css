@@ -49,9 +49,9 @@ body{
 /* main content styling starts */
 #pizza-img{
     float: right;
-    margin-right: 105px;
+    margin-right: 150px;
     margin-top: 23px;
-    filter: drop-shadow(13px 10px 3px #d0cec8);
+    filter: drop-shadow(13px 13px 1px #d0cec8);
 }
 
 main{
@@ -76,7 +76,7 @@ h6{
 }
 
 p{
-    padding-top: 10px;
+    padding-top: 5px;
     width: 35%;
     font-size: 70px;
     font-weight: 500;
@@ -85,19 +85,23 @@ p{
 h4{
     width: 35%;
     font-weight: 350;
-    color: #d0cec8;
-    border-style: solid;
+    color: #131313;
+    padding-top: 4px;
+    padding-left: 5px;
 }
 
 button{
-    width: 240px;
+    width: 360px;
     height: 36px;
     align-content: center;
-    
-    border-style: solid;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fffcf5;
     background-color: #ff4a36;
+    margin-top: 24px;
+    margin-left: 42px;
+
+    border: none;
     border-radius: 60px;
-    border-top: 0px;
-    border-bottom: 0px;
 }
 /* main content styling ends */
