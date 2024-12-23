@@ -23,10 +23,8 @@ body{
     margin-left: 40px;
     margin-right: 40px;
 
-    border-style: solid;
     border-radius: 45px;
-    border-color: black;
-    border-width: 1px;
+    border-width: 0px;
 }
 /* main-container styling ends */
 
@@ -65,15 +63,15 @@ hr{
 
 
 /* main content styling starts */
-#pizza-img{
+#pizza-img img{
     float: right;
+
     margin-right: 80px;
     margin-top: 66px;
-}
 
-#pizza-img img{
     border-radius: 20px;
 }
+
 main{
     margin-left: 45px;
     padding-left: 40px;
@@ -112,7 +110,8 @@ h4{
 
 button{
     height: 36px;
-    width: 300px;
+    width: 180px;
+
     align-content: center;
     
     font-size: 21px;
@@ -121,7 +120,7 @@ button{
     background-color: #ff4a36;
     
     margin-top: 24px;
-    margin-left: 42px;
+    margin-left: 40px;
 
     border: none;
     border-radius: 60px;
@@ -189,5 +188,4 @@ footer{
     border-style: solid;
     border-radius: 45px;
 }
-
 /* footer styling ends */
