@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 body{
     background-color: #fffcf5;
     font-family: "Lexend", serif;
@@ -11,6 +12,23 @@ body{
     font-weight: weight;
     font-style: normal;
 }
+
+
+/* main-container styling starts */
+#home{
+    background-color: #ffd6d1;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+    border-style: solid;
+    border-radius: 45px;
+    border-color: black;
+    border-width: 1px;
+}
+/* main-container styling ends */
 
 
 /* navbar styling starts */
@@ -49,7 +67,7 @@ hr{
 /* main content styling starts */
 #pizza-img{
     float: right;
-    margin-right: 120px;
+    margin-right: 80px;
     margin-top: 66px;
 }
 
@@ -58,7 +76,7 @@ hr{
 }
 main{
     margin-left: 45px;
-    padding-left: 80px;
+    padding-left: 40px;
     padding-top: 55px;
 }
 
@@ -71,7 +89,7 @@ h6{
     font-size: 14px;
 
     border-style: solid;
-    background-color: #ffdfdc;
+    background-color: #fcf2f2;
     border-radius: 60px;
     border-top: 0.2px;
     border-bottom: 0.2px;
@@ -114,7 +132,7 @@ button{
 /* footer styling starts */
 footer{
     height: 100px;
-    margin-top: 25px;
+    margin-top: 15px;
     
     gap: 30px;
     display: flex;
@@ -123,7 +141,7 @@ footer{
 }
 
 #box1{
-    height: 80px;
+    height: 40px;
     width: 240px;
 
     margin-left: 20px;
@@ -131,7 +149,7 @@ footer{
     align-content: center;
     text-align: center;
     
-    background-color: #ffdfdc;
+    background-color: #f2f2f2;
     border-color: #131313;
     border-width: 4px;
     border-top: 0.2px;
@@ -141,13 +159,13 @@ footer{
 }
 
 #box2{
-    height: 80px;
+    height: 40px;
     width: 240px;
 
     align-content: center;
     text-align: center;
 
-    background-color: #ffdfdc;
+    background-color: #f2f2f2;
     border-color: #131313;
     border-width: 4px;
     border-top: 0.2px;
@@ -157,13 +175,13 @@ footer{
 }
 
 #box3{
-    height: 80px;
+    height: 40px;
     width: 240px;
 
     align-content: center;
     text-align: center;
     
-    background-color: #ffdfdc;
+    background-color: #f2f2f2;
     border-color: #131313;
     border-width: 4px;
     border-top: 0.2px;
