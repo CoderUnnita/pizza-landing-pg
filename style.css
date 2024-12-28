@@ -36,35 +36,7 @@ nav{
     background-color: #ffffff;
 }
 
-#order{
-    width: 160px;
-    height: 40px;
 
-    display: flex;
-    justify-content: space-evenly;
-    align-content: center;
-    
-    margin-top: -10px;
-    background-color: #03d209;
-
-    border-radius: 25px;
-    color: #ffffff;
-}
-
-
-nav ul li div button{
-    background-color: #03d209;
-    color: #ffffff;
-    font-family: "Lexend", serif;
-    font-optical-sizing: auto;
-    font-weight: 500;
-    font-style: normal;
-    border-style: none;
-}
-
-nav ul li div span{
-    padding-top: 6px;
-}
 
 #nav-left{ 
     height: 70px;
@@ -90,12 +62,52 @@ nav ul li div span{
     color: #131313;
 }
 
-#download-app{
-    width: 140px;
+#order{
+    width: 160px;
     height: 40px;
 
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    
+    margin-top: -10px;
+    background-color: #03d209;
+
+    border-radius: 25px;
+    color: #ffffff;
+}
+
+nav ul li div button{
+    background-color: #03d209;
+    color: #ffffff;
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    border-style: none;
+}
+
+nav ul li div span{
+    padding-top: 6px;
+}
+
+#download-app{
+    width: 400px;
+    height: 40px;
+
+    margin-left: 10px;
     text-align: center;
 
+    background-color: #ff5353;
+    color: #ffffff;
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: normal;
+
+    border-style: none;
+    border-radius: 10px;
 }
 
 hr{
@@ -203,6 +215,5 @@ footer{
     display: flex;
     align-items: center;
 }
-
 
 /* footer styling ends */
