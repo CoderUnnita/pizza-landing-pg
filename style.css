@@ -6,13 +6,27 @@
 
 
 body{
-    background-color: #f2f2f2;
+    background-image: url(assets/bg-img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
     font-family: "Lexend", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
 }
 
+body::before{
+    content: "";
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    z-index: -1;
+}
 
 /* main-container styling starts */
 #home{
