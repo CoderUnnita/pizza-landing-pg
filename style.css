@@ -69,11 +69,13 @@ hr{
     width: 580px;
     height: 520px;
 
+    filter: drop-shadow(10px 10px 3px #131313);
     margin-right: 120px;
+    margin-top: 10px;
 }
 
 main{
-    margin-left: 45px;
+    margin-left: 70px;
     padding-left: 40px;
     padding-top: 55px;
 }
@@ -121,7 +123,7 @@ h4{
     height: 40px;
     width: 240px;
 
-    margin-left: 20px;
+    margin-left: 10px;
 
     align-content: center;
     text-align: center;
