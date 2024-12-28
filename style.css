@@ -24,7 +24,7 @@ body::before{
     position: absolute;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
     z-index: -1;
 }
 
@@ -49,8 +49,6 @@ body::before{
 nav{
     background-color: #ffffff;
 }
-
-
 
 #nav-left{ 
     height: 70px;
@@ -164,7 +162,7 @@ main i{
 
     border-style: solid;
     border-radius: 100px;
-
+    border-width: 3px;
 }
 h6{
     width: 240px;
